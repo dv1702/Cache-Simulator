@@ -1,0 +1,14 @@
+4096
+64
+Direct-mapped cache
+LRU Replacement
+25
+12
+13
+25
+25
+0
+0
+12
+13
+2
