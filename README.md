@@ -1,6 +1,6 @@
 # Cache-Simulator:
 ### - A Course Project containing Implementation of Direct Mapped, Set-Associative and Fully-Associative Cache
-### - LRU and Pseudo-LRU Block replacement policies are implemented for appropriate comination
+### - LRU and Pseudo-LRU Block replacement policies are implemented for appropriate combination
 # Files: 
 ## - Team23_A6.C - Contains Source Code of Simulator
 ## - traces.txt - Contains Sample Memory Address and Operation {Read('r')/ Write('w')}.
